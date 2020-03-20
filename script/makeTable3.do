@@ -2,7 +2,7 @@
 *****************************************************************
 * Replication file for:
 * "Elasticities and the inverse hyperbolic sine transformation"
-* by Marc F. Bellemare & Casey J. Wichman (2019)
+* by Marc F. Bellemare & Casey J. Wichman (2020)
 *****************************************************************
 
 clear all
